@@ -15,8 +15,6 @@ This repository contains a Vite + React frontend and an Express + Mongoose backe
 - [Local setup — frontend](#local-setup---frontend)
 - [Important files / where to look](#important-files--where-to-look)
 - [Database models](#database-models)
-- [Assets](#assets)
-- [Linting](#linting)
 - [Notes](#notes)
 
 ---
